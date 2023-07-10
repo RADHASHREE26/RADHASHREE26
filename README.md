@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radhashree Bose</h1>
-<h3 align="center">A final year Comp. Sci. major B. Tech Student who is interested in Data Analytics and Cyber Security domains.</h3>
+<h3 align="center">A final year Comp. Sci. major B. Tech Student who is interested in Data Analytics and Cyber Security and lives on coffee.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhashree26&label=Profile%20views&color=0e75b6&style=flat" alt="radhashree26" /> </p>
