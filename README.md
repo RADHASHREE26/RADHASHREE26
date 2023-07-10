@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **radhag414@gmail.com**
 
-- ⚡ Fun fact **I like computers more than people.**
+- ⚡ Fun fact **I like computers and coffees more than people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
